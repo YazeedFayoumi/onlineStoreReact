@@ -11,6 +11,7 @@ body form {
     justify-content: center; 
     align-items: center; 
     height: 100vh; 
+    margin-left: 550px;
 }
 
 form {
