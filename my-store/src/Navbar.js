@@ -12,7 +12,7 @@ function Navbar(){
         <div className="collapse navbar-collapse" id="navbarNavDropdown">
           <ul className="navbar-nav">
             <li className="nav-item active">
-              <a className="nav-link" href="/Products.js"> Products <span className="sr-only"></span></a>
+              <a className="nav-link" href="/Products"> Products <span className="sr-only"></span></a>
             </li>
             
             <li className="nav-item">
